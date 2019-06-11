@@ -3,6 +3,14 @@ This data science repo provides the insights of the data scientists profile.
 
 In this project, I am exploring couple of interesting insights on data scientists from the stack overflow surey conducted from 2016 to 2018.
 
+###### Q1. Data Scientists  growth over the period 
+###### Q2. Gender based data Scientists  population
+###### Q3. Data Scientists  population around the world
+###### Q4. Data Scientists  popular languages
+###### Q5. Data Scientists  job satisfaction
+###### Q6. Age wise data Scientists average salary 
+
+
 ### Technologies used
 - Jupyter Notebook
 - Python 3.7
