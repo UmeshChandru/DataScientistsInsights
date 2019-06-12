@@ -13,15 +13,15 @@ The code should run with no issues using Python versions 3.*.
 
 ## Project Motivation<a name="motivation"></a>
 
-For this project, I am using Stack Overflow data developer suvery data from 2016 to 2018 to analyse data scientist job pros and cons. This analysis will explain is it worth to job switch/enter into the data scientist role.
+For this project, I am using Stack Overflow data developer survey data from 2016 to 2018 to analyses data scientist job pros and cons. This analysis will explain is it worth to job switch/enter the data scientist role.
 
 As part of this activity, will answer below questions:
 
-* Q1. Data Scientists  growth over the period 
+* Q1. Data Scientists growth over the period 
 * Q2. Gender based data Scientists  population
-* Q3. Data Scientists  population around the world
-* Q4. Data Scientists  popular languages
-* Q5. Data Scientists  job satisfaction
+* Q3. Data Scientists population around the world
+* Q4. Data Scientists popular languages
+* Q5. Data Scientists job satisfaction
 * Q6. Age wise data Scientists average salary 
 
 
